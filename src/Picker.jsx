@@ -19,8 +19,8 @@ export default class Picker extends PureComponent {
 
   static defaultProps = {
     prefixCls: 'picker-address',
-    tipText: '请选择',
-    title: '配送至',
+    tipText: 'Please Select',
+    title: 'Country',
   };
 
   constructor(props) {
